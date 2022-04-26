@@ -1,1 +1,4 @@
-# 21-advanced-solidity-
+# 21 Advanced Solidity 
+Creating our own crytocurrencies 
+ 1. KaiseiCoin
+ 2. 
